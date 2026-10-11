@@ -6,8 +6,8 @@ Where is hydrant coverage densest in NYC, and which neighborhoods are underserve
 
 ## The data
 
-- **NYC Neighborhoods.** 262 polygons (2020 Neighborhood Tabulation Areas (NTAs), Source: [NYC Open Data](https://opendata.cityofnewyork.us))
-- **NYC Fire Hydrants.** 109,725 points (Source: [NYC Open Data](https://opendata.cityofnewyork.us))
+- **NYC Neighborhoods.** 262 polygons (2020 Neighborhood Tabulation Areas (NTAs), Source: [NYC Open Data](https://data.cityofnewyork.us/City-Government/2020-Neighborhood-Tabulation-Areas-NTAs-/9nt8-h7nd/about_data))
+- **NYC Fire Hydrants.** 109,725 points (Source: [NYC Open Data](https://data.cityofnewyork.us/Environment/Hydrants/5bgh-vtsn/about_data))
 - License: NYC Open Data Terms of Use
 - All data in EPSG:4326
 
