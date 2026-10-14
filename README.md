@@ -70,3 +70,7 @@ jupyter lab analysis.ipynb
 - GeoPandas + SQLAlchemy + matplotlib
 - Jupyter Lab
 - GeoParquet
+
+## Post 
+
+[Link to the LinkedIn post.](https://lnkd.in/p/gUArfu6Y)
